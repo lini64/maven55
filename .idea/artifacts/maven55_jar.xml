@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="maven55:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/maven55_jar</output-path>
+    <root id="archive" name="maven55.jar">
+      <element id="module-output" name="maven55" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/com/mchange/mchange-commons-java/0.2.19/mchange-commons-java-0.2.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/com/mchange/c3p0/0.9.5.5/c3p0-0.9.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/org/mybatis/mybatis/3.5.5/mybatis-3.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/develop/apache-maven-3.6.1/mvn_repo/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
